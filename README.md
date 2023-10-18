@@ -77,7 +77,7 @@ Contributions to the project are welcome. If you find issues or have ideas for i
 ## Output
 
 This is how the project will be once it is finished
-![OUTPUT]()
+![OUTPUT](https://github.com/HariAr2/Medicine-stock-Management/blob/main/Project/ss.png)
 
 
 
