@@ -74,6 +74,13 @@ The application uses SQLite3 as its database. The database file (`products.db`) 
 Contributions to the project are welcome. If you find issues or have ideas for improvements, please submit an issue or create a pull request.
 
 
+## Output
+
+This is how the project will be once it is finished
+![OUTPUT]()
+
+
+
 ## Acknowledgments :medal_sports:
 
 This application is developed by Hari Aravindh and is inspired by the need for an efficient and user-friendly solution for managing medicine stock. It is a simple yet powerful tool for anyone who needs to keep track of their medicine inventory.
