@@ -2,7 +2,7 @@
 
 This is a simple medicine stock management application developed using Python, SQLite3, and Tkinter. This application is designed to help users manage their medicine inventory, including adding, updating, and deleting medicines, as well as tracking stock levels.
 
-## Features :dart:
+## Features :dart: 
 
 - **Add New Medicine**: Easily add new medicines to your inventory with information such as name, quantity, expiration date, and more.
 
