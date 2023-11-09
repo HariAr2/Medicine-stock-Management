@@ -1,6 +1,6 @@
 # Medicine Stock Management :hospital:
 
-This is a simple medicine stock management application developed using Python, SQLite3, and Tkinter. This application is designed to help users manage their medicine inventory, including adding, updating, and deleting medicines, as well as tracking stock levels.This application uses matplotlib to tracking stock levels in a bar graph.
+This is a simple medicine stock management application developed using Python, SQLite3, and Tkinter. This application is designed to help users manage their medicine inventory, including adding, updating, and deleting medicines, as well as tracking stock levels.This application uses matplotlib to tracking stock levels in a bar graph. 
 
 ## Features :dart: 
 
